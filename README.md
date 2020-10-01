@@ -1,5 +1,7 @@
 # SWIM-analysis-on-gene-regulatory-networks
 
+![alt text](https://github.com/DavideToma/SWIM-analysis-on-gene-regulatory-networks/blob/master/Gene_regulatory_network.jpg?raw=true)
+
 
 I have analysed, through SWIM procedure, one of the most common cancer, the Lung Squamous Cell Carcinoma. SWItchMiner (SWIM) is a software implementation of a procedure, able to extract information contained in complex networks. Specifically, SWIM allows unearthing the existence of a new class of hubs, called “fight-club hubs”, characterized by a marked negative correlation with their first nearest neighbors. Among them, a special subset of genes, called “switch genes”, appears to be characterized by an unusual pattern of intra - and inter - module connections that confers them a crucial topological role. The dataset on which we made the analysis is composed by a set of genes monitored in two different conditions: normal and tumour. First of all, I have found, properly applying SWIM software, the set of ”switch genes” related to drastic changes in many biological settings. Once this set of genes has been found, I have applied an enrichment analysis with the web tool ’Enrich r’ that found out if our genes have a statistical significance with some processes and interactions in 4 different categories: Ontologies, Diseases/Drugs, Transcription and Pathways.
 
